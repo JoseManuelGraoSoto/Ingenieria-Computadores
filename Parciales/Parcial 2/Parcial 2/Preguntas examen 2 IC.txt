@@ -1,0 +1,24 @@
+Preguntas examen 2 IC
+
+· Si la red omega es directa
+	 no lo es, es indirecta ya que tiene conmudatores por en medio
+
+· Paralelismo de datos 
+	Implícito en instrucciones de tipo vectorial
+
+· Nivel de un arbol, nodos
+	nodos de un arbol binario: 2^k -1 (k=niveles)
+
+· Fórmulas de las redes ¿?
+
+· Grado de un cubo de 6 dimensiones
+	G = D = n = 6; Grado = 6; n = log2(N); N=numero de nodos
+
+· SPMD
+	Un programa; multiples datos
+
+· Reducción
+	Todos a uno: El que recibe los datos les aplica una función
+
+· Cáculo de aceleración
+	S = Ts/Tp(n)
